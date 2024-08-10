@@ -13,10 +13,9 @@
      
 }
 body{
-    background-image: url(¨imagen/fondo/pagina.avif¨)
+    background-image: url(¨ga.jpg¨)
 
    
-
 }
 .titulo{
 font-size: 60px;
@@ -29,7 +28,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .img1{
     height: 193px;
     width: 300px;
-    background-image: url("imagen\ teg.avif");
+    background-image: url("circuitos-electricos.webp");
     background-repeat: no-repeat;
     float: right;
 }
