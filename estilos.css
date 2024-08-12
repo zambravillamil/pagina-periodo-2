@@ -61,14 +61,14 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .img3{
-    height: 1500px;
-    width: 1000px;
-    background-image: url("agua.jpg");
+    height: 1800px;
+    width: 1500px;
+    background-image: url("agua.png");
     background-repeat: no-repeat;
     float: center;
 }
 .img4{
-    height: 1400px;
+    height: 1300px;
     width: 1500px;
     background-image: url("img2d.jpg");
     background-repeat: no-repeat;
