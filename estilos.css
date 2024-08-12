@@ -27,8 +27,16 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 .img1{
 
     height: 400px;
-    width: 400px;
-    background-image: url("medellin.jpeg");
+    width: 600px;
+    background-image: url("circuitos-eléctricos.jpg");
     background-repeat: no-repeat;
     float: left;
 }
+.imgsociales{
+    height: 800px;
+    width: 800px;
+    background-image: url("sociales.png");
+    background-repeat: no-repeat;
+    float: left;
+}
+
