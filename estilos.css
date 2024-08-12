@@ -54,43 +54,43 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .imagen2{
-    height: 700px;
-    width: 700px;
+    height: 500px;
+    width: 600px;
     background-image: url("imgbuli.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img3{
-    height: 700px;
-    width: 700px;
+    height: 1500px;
+    width: 1000px;
     background-image: url("img1a.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img4{
-    height: 700px;
-    width: 700px;
+    height: 1400px;
+    width: 1500px;
     background-image: url("img2d.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img5{
-    height: 700px;
-    width: 700px;
+    height: 600px;
+    width: 600px;
     background-image: url("img3e.webp");
     background-repeat: no-repeat;
     float: left;
 }
 .img6{
-    height: 700px;
-    width: 700px;
+    height: 400px;
+    width: 550px;
     background-image: url("img4d.webp");
     background-repeat: no-repeat;
     float: left;
 }
 .img7{
-    height: 700px;
-    width: 700px;
+    height: 400px;
+    width: 400px;
     background-image: url("img5a.avif");
     background-repeat: no-repeat;
     float: left;
@@ -110,8 +110,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .img10{
-    height: 700px;
-    width: 700px;
+    height: 900px;
+    width: 1500px;
     background-image: url("img8.webp");
     background-repeat: no-repeat;
     float: left;
