@@ -61,15 +61,15 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .img3{
-    height: 600px;
-    width: 500px;
+    height: 500px;
+    width: 1500px;
     background-image: url("agua.png");
     background-repeat: no-repeat;
-    float: left;
+    float: center;
 }
 .img4{
-    height: 900px;
-    width: 810px;
+    height: 500px;
+    width: 1500px;
     background-image: url("img2d.jpg");
     background-repeat: no-repeat;
     float: left;
@@ -96,7 +96,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .img8{
-    height: 700px;
+    height: 500px;
     width: 700px;
     background-image: url("img6.webp");
     background-repeat: no-repeat;
@@ -117,105 +117,105 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left;
 }
 .img11{
-    height: 700px;
+    height: 300px;
     width: 700px;
     background-image: url("img9.png");
     background-repeat: no-repeat;
     float: left;
 }
 .img12{
-    height: 700px;
-    width: 700px;
+    height: 428px;
+    width: 400px;
     background-image: url("img10.avif");
     background-repeat: no-repeat;
     float: left;
 }
 .img13{
-    height: 700px;
+    height: 642px;
     width: 700px;
     background-image: url("img11.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img14{
-    height: 700px;
+    height: 478px;
     width: 700px;
     background-image: url("img12.avif");
     background-repeat: no-repeat;
     float: left;
 }
 .img15{
-    height: 700px;
-    width: 700px;
+    height: 482px;
+    width: 620px;
     background-image: url("img1m.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img16{
-    height: 700px;
-    width: 700px;
+    height: 316px;
+    width: 300px;
     background-image: url("img2m.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img17{
-    height: 700px;
+    height: 528px;
     width: 700px;
     background-image: url("img3m.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img18{
-    height: 700px;
+    height: 536px;
     width: 700px;
     background-image: url("img4m.avif");
     background-repeat: no-repeat;
     float: left;
 }
 .img19{
-    height: 700px;
+    height: 529px;
     width: 700px;
     background-image: url("img5m.webp");
     background-repeat: no-repeat;
     float: left;
 }
 .img20{
-    height: 700px;
-    width: 700px;
+    height: 350px;
+    width: 438px;
     background-image: url("img6m.webp");
     background-repeat: no-repeat;
     float: left;
 }
 .img21{
-    height: 700px;
-    width: 700px;
-    background-image: url("img7m.jpg");
+    height: 327px;
+    width: 330px;
+    background-image: url("drug.jpeg");
     background-repeat: no-repeat;
     float: left;
 }
 .img22{
-    height: 700px;
-    width: 700px;
+    height: 216px;
+    width: 275px;
     background-image: url("img8m.png");
     background-repeat: no-repeat;
     float: left;
 }
 .img23{
-    height: 700px;
+    height: 475px;
     width: 700px;
     background-image: url("img9m.jpg");
     background-repeat: no-repeat;
     float: left;
 }
 .img24{
-    height: 700px;
-    width: 700px;
+    height: 357px;
+    width: 434px;
     background-image: url("img10m.avif");
     background-repeat: no-repeat;
     float: left;
 }
 .img25{
-    height: 700px;
+    height: 421px;
     width: 700px;
     background-image: url("img11m.webp");
     background-repeat: no-repeat;
